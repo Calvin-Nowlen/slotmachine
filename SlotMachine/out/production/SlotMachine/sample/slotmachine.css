@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: orange;
+}
+.button{
+    -fx-text-fill: red;
+    -fx-font-size: 50px;
+}
+.label{
+    -fx-text-fill: green;
+    -fx-font-size: 20px;
+}
+#money{
+    -fx-text-fill: blue;
+    -fx-font-size: 50px;
+}
